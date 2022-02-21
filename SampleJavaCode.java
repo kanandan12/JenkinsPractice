@@ -8,6 +8,7 @@ public class SampleJavaCode
     {
         System.out.println( "This is sample Jenkins Practice" );
         System.out.println( "java Program" );
+        System.out.println( "Small code changes in the program" );
               
     }
 }
